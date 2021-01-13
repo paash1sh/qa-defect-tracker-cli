@@ -97,3 +97,4 @@ class DefectManager:
             summary["by_module"][d["module"]] = summary["by_module"].get(d["module"], 0) + 1
         return summary
 # manager
+# filter
