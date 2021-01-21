@@ -99,3 +99,4 @@ class DefectManager:
 # manager
 # filter
 # history
+# empty file fix
