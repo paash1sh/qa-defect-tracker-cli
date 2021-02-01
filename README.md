@@ -57,3 +57,4 @@ python main.py report --format csv > defects_export.csv
 ## Data Storage
 
 Defects are saved in `data/defects.json`. Each defect includes a full status history with timestamps.
+# readme
