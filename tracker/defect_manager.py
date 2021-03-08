@@ -101,3 +101,4 @@ class DefectManager:
 # history
 # empty file fix
 # id fix
+# summary
