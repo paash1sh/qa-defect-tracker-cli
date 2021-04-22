@@ -57,3 +57,4 @@ class Reporter:
             })
 # reporter
 # csv export
+# critical highlight
